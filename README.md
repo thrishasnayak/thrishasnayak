@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:C2185B,50:E75480,100:FF4F81&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=60&animation=twinkling"/>
 </p>
@@ -170,4 +170,4 @@ class Success {
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:C2185B,50:E75480,100:FF4F81"/>
 </p>
-````
+
