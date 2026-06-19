@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=280&section=header&text=Thrisha%20S%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
@@ -127,5 +127,4 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
 </p>
-```
 
