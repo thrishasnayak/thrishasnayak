@@ -1,42 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF69B4,50:FFB6C1,100:FFC0CB&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF69B4,50:FFB6C1,100:FFC0CB&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=60&animation=twinkling"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Thrisha S Nayak</h1>
+<h1 align="center">🌸 Hi, I'm Thrisha S Nayak 👋</h1>
 
 <h3 align="center">
-💻 Computer Science Engineering Student | Full Stack Developer | Problem Solver
+💻 Computer Science Engineering Student | Full Stack Developer | Future Software Engineer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+MongoDB;Building+Ideas+Into+Reality+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+MongoDB;Building+Ideas+Into+Reality;Always+Learning+Something+New+🌸" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thrishasnayak&theme=github_dark" />
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
 </p>
 
 ---
 
-# 🌸 About Me
+# 🌷 About Me
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate Full Stack Developer
+💻 Passionate Full Stack Web Developer
 
-🚀 Exploring Software Development & Open Source
+🚀 Exploring Software Engineering & Modern Technologies
 
-🌱 Learning Data Structures, Algorithms & Modern Web Technologies
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Web Development
+
+💡 Interested In:
+- Software Development
+- Artificial Intelligence
+- Cloud Computing
+- Open Source Projects
 
 📍 Mangaluru, Karnataka, India
 
-📫 **thrishasnayak23@gmail.com**
+📧 **thrishasnayak23@gmail.com**
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> "First, solve the problem. Then, write the code."
+> **"First, solve the problem. Then, write the code."**
+>
+> — John Johnson
+
+---
+
+# 💻 Success Formula
+
+```java
+public class Success {
+
+    public static void main(String[] args) {
+
+        while (!successful) {
+            learn();
+            practice();
+            buildProjects();
+            improveSkills();
+            neverGiveUp();
+        }
+
+        System.out.println("Success Achieved 🚀");
+    }
+}
+```
 
 ---
 
@@ -48,11 +82,14 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thrishasnayak&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishasnayak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrishasnayak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishasnayak&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
@@ -61,7 +98,7 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=thrishasnayak&theme=algolia&no-frame=true&margin-w=10"/>
@@ -69,7 +106,15 @@
 
 ---
 
-# 🐍 Contribution Graph
+# 📊 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thrishasnayak&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/thrishasnayak/thrishasnayak/output/github-contribution-grid-snake.svg"/>
@@ -80,32 +125,45 @@
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/thrishasnayak">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 <a href="mailto:thrishasnayak23@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
+
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 </p>
 
 ---
+
+# 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thrishasnayak&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
-<h3 align="center">
-✨ Thanks for visiting my profile ✨
-</h3>
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bear-love.gif" width="180">
+
+# 💖 Thanks For Visiting My Profile 💖
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Thank+You+For+Visiting!;Code+.+Learn+.+Build+.+Repeat+.;Future+Software+Engineer+🚀;Let's+Build+Amazing+Projects+Together+💖"/>
+
+### 🌸 Keep Learning • Keep Coding • Keep Growing 🌸
+
+⭐ Dream Big | Work Hard | Stay Consistent ⭐
+
+</div>
 
 <p align="center">
-🚀 Always learning • Always building • Always growing
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF69B4,50:FFB6C1,100:FFC0CB"/>
 </p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF69B4,50:FFB6C1,100:FFC0CB"/>
-</p>
-
