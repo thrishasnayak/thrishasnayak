@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:2D033B,50:810CA8,100:C147E9&text=Thrisha%20S%20Nayak&fontColor=FF69B4&fontSize=60&animation=twinkling"/>
 </p>
@@ -42,6 +41,84 @@
 📍 Mangaluru, Karnataka, India
 
 📧 **thrishasnayak23@gmail.com**
+
+---
+
+# 🚀 Developer Infographic
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thrishasnayak&theme=tokyonight"/>
+
+</div>
+
+### 🎮 Developer Card
+
+```text
+╔══════════════════════════════════════╗
+║ 👩‍💻 Name      : Thrisha S Nayak      ║
+║ 🎓 Education : CSE Student           ║
+║ 💻 Role      : Full Stack Developer  ║
+║ ☕ Java Developer                     ║
+║ 🐍 Python Programmer                 ║
+║ 🚀 Goal : Software Engineer          ║
+╚══════════════════════════════════════╝
+```
+
+### 📈 Skill Progress
+
+```text
+Java          ██████████ 90%
+
+Python        ████████░░ 80%
+
+HTML/CSS      █████████░ 85%
+
+JavaScript    ███████░░░ 70%
+
+MongoDB       ███████░░░ 75%
+
+DSA           ██████░░░░ 65%
+```
+
+### 🎯 Learning Roadmap
+
+```text
+        🚀 SOFTWARE ENGINEER
+                 ▲
+                 │
+         ☁️ CLOUD COMPUTING
+                 ▲
+                 │
+      💻 FULL STACK DEVELOPMENT
+                 ▲
+                 │
+       🗄️ DATABASE MANAGEMENT
+                 ▲
+                 │
+         ⚙️ OBJECT ORIENTED
+                 ▲
+                 │
+      📚 DATA STRUCTURES & ALGORITHMS
+```
+
+### 🏆 Achievement Board
+
+```text
+🌟 Open Source Enthusiast
+
+🚀 Full Stack Developer
+
+💻 Daily Coding Practice
+
+📚 Lifelong Learner
+
+☕ Java Enthusiast
+
+🐍 Python Explorer
+
+🎯 Future Software Engineer
+```
 
 ---
 
@@ -89,11 +166,8 @@ class Success {
 # 📈 GitHub Statistics
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrishasnayak&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishasnayak&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
@@ -173,4 +247,3 @@ class Success {
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2D033B,50:810CA8,100:C147E9"/>
 </p>
-
