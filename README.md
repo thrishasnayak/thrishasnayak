@@ -1,15 +1,16 @@
+````md
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF69B4,50:FFB6C1,100:FFC0CB&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:C2185B,50:E75480,100:FF4F81&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=60&animation=twinkling"/>
 </p>
 
-<h1 align="center">🌸 Hi, I'm Thrisha S Nayak 👋</h1>
+<h1 align="center">👩‍💻 Hi, I'm Thrisha S Nayak 👋</h1>
 
 <h3 align="center">
 💻 Computer Science Engineering Student | Full Stack Developer | Future Software Engineer 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+MongoDB;Building+Ideas+Into+Reality;Always+Learning+Something+New+🌸" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+MongoDB;Building+Ideas+Into+Reality;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 ---
 
-# 🌷 About Me
+# 🌹 About Me
 
 🎓 Computer Science Engineering Student
 
@@ -52,22 +53,22 @@
 
 ---
 
-# 💻 Success Formula
+# 🚀 Success Formula
 
 ```java
-public class Success {
+class Success {
 
     public static void main(String[] args) {
 
-        while (!successful) {
+        while (!dreamAchieved) {
             learn();
-            practice();
+            code();
+            debug();
             buildProjects();
-            improveSkills();
-            neverGiveUp();
+            stayConsistent();
         }
 
-        System.out.println("Success Achieved 🚀");
+        System.out.println("🌹 Success is the sum of small efforts repeated every day.");
     }
 }
 ```
@@ -145,25 +146,28 @@ public class Success {
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thrishasnayak&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=thrishasnayak&label=Profile+Views&color=e75480&style=for-the-badge"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bear-love.gif" width="180">
+<img src="https://media.tenor.com/DimzPZMypFcAAAAi/pink-heart.gif" width="180">
 
 # 💖 Thanks For Visiting My Profile 💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Thank+You+For+Visiting!;Code+.+Learn+.+Build+.+Repeat+.;Future+Software+Engineer+🚀;Let's+Build+Amazing+Projects+Together+💖"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=E75480&center=true&vCenter=true&width=850&lines=Thank+You+For+Visiting!;Code+.+Learn+.+Build+.+Repeat.;Future+Software+Engineer+🚀;Let's+Build+Amazing+Projects+Together!"/>
 
-### 🌸 Keep Learning • Keep Coding • Keep Growing 🌸
+### 🌹 Keep Learning • Keep Coding • Keep Growing 🌹
 
-⭐ Dream Big | Work Hard | Stay Consistent ⭐
+⭐ Dream Big | Code Smart | Stay Consistent ⭐
+
+💻 Turning Ideas into Reality, One Line of Code at a Time 🚀
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF69B4,50:FFB6C1,100:FFC0CB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:C2185B,50:E75480,100:FF4F81"/>
 </p>
+````
