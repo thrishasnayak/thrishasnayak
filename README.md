@@ -86,6 +86,20 @@
 
 ---
 
+---
+
 <p align="center">
-🌸 Thank you for visiting my profile 🌸
+🌸 Thank You For Visiting My Profile 🌸
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+✨ <b>"Building the future, one algorithm at a time."</b> 🚀💻
+</p>
+
+<p align="center">
+⭐ Don't forget to check out my repositories ⭐
 </p>
