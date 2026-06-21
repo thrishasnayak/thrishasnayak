@@ -1,61 +1,166 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:1A1A1A,100:FF6B00&text=Thrisha%20S%20Nayak&fontColor=FFA500&fontSize=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:C2185B,50:E75480,100:FF4F81&text=Thrisha%20S%20Nayak&fontColor=ffffff&fontSize=60&animation=twinkling"/>
 </p>
 
-<h1 align="center">🧡 Hi, I'm Thrisha S Nayak 👋</h1>
+<h1 align="center">
+🌸 Hi, I'm thrishasnayak👋
+</h1>
 
 <h3 align="center">
-💻 Computer Science Engineering Student | Full Stack Developer | Future Software Engineer 🚀
+💻 Full Stack Developer | Java Enthusiast ☕ | Problem Solver 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+%7C+MongoDB;Passionate+About+Software+Engineering;Building+Ideas+Into+Reality+🚀"/>
+✨ <b>"Turning ideas into beautiful digital experiences."</b> ✨
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Java+Developer+%7C+Problem+Solver;Always+Learning+New+Technologies;Building+Projects+That+Matter+🚀" />
 </p>
 
 ---
 
-# 🧡 About Me
+## 🌷 About Me
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate Full Stack Web Developer
+🌍 Based in **Mangaluru, Karnataka, India**
 
-🚀 Exploring Software Engineering & Modern Technologies
+💻 Passionate about **Web Development & Java**
 
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Full Stack Development
+🌱 Currently Learning **Spring Boot & MERN Stack**
 
-💡 Interested In:
-- Software Development
-- Artificial Intelligence
-- Cloud Computing
-- Open Source Projects
+🚀 Building Real-World Projects
 
-📍 Mangaluru, Karnataka, India
+📫 Reach me at:
 
-📧 **thrishasnayak23@gmail.com**
+**thrishasnayak23@gmail.com**
 
 ---
 
-# 🖥️ Computer Science Dashboard
+## 💖 Tech Stack
 
-```text
-╔══════════════════════════════════════════════╗
-║ 💻 COMPUTER SCIENCE ENGINEER                ║
-╠══════════════════════════════════════════════╣
-║ ☕ Java Development                          ║
-║ 🐍 Python Programming                        ║
-║ 🌐 Full Stack Web Development                ║
-║ 📚 Data Structures & Algorithms              ║
-║ 🗄️ Database Management Systems               ║
-║ ⚙️ Object-Oriented Programming               ║
-║ ☁️ Cloud Computing                           ║
-║ 🚀 Future Software Engineer                  ║
-╚══════════════════════════════════════════════╝
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+## 🌸 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/thrishasnayak">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thrishasnayak23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-C2185B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrishasnayak&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishasnayak&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=thrishasnayak&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thrishasnayak&theme=radical&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thrishasnayak&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/thrishasnayak/thrishasnayak/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 💕 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=thrishasnayak&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌟 Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</p>
+
+---
+
+<p align="center">
+
+💗 Thanks for visiting my profile 💗
+
+⭐ Don't forget to star your favorite repositories ⭐
+
+🚀 Happy Coding 🚀
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2185B,50:E75480,100:FF4F81&height=120&section=footer"/>
